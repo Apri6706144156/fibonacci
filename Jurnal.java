@@ -36,4 +36,4 @@ public class Jurnal {
 	} 
     } 
 } 
-        
+        apri riyarahayu
