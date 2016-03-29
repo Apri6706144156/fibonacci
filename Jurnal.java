@@ -16,7 +16,7 @@ public class Jurnal {
 		Scanner input = new Scanner(System.in);
 		int num1=0,num2=1,jum;
 		int count;
-		
+	//REVERSE FIBONANCI
 		System.out.println("penjumlahan angka" +
 				" beberapa digit angka di input oleh user");
 		
